@@ -1,3 +1,3 @@
 # Article
 
-Backup article.
+zennの記事のバックアップ。
